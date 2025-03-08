@@ -1,0 +1,17 @@
+__pycache__
+*.mp4
+*.avi
+*.png
+*.jpg
+*.json
+*.ipynb
+*.pt
+*.csv
+TrackNet/
+dataset/
+runs/
+weights/
+videos/
+
+train/
+models/
